@@ -1,0 +1,12 @@
+{
+  "name": "legal-pt-skills",
+  "description": "Skills para trabalho jurídico em português de Portugal.",
+  "owner": { "name": "Diogo Ribeiro Santos" },
+  "plugins": [
+    {
+      "name": "legal-pt-skills",
+      "source": "./",
+      "description": "Skills para trabalho jurídico em português de Portugal, com folha de rasto e paragens para decisão do advogado."
+    }
+  ]
+}
